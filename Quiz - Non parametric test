@@ -50,9 +50,9 @@ sum.rank.b = sum(rank(c(a,b))[5:8]
 
 
 7. Based on the table in the previous question, what is the sum of the ranks in the Astrophysics group?
-
+Correct - 19
 8. Based on comparing the Wayne East and Astrophysics, what is the test statistic if we run a Wilcoxon rank sum test?
-
+Correct - 17
 9. A cat lover has 18 cats, from four different breeds. He is interested in whether one breed is significantly larger than the others and runs a Kruskal-Wallis test to check this.
 
 CORRETA - At least one breed of cat has a significantly different size.
