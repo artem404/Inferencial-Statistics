@@ -48,10 +48,12 @@ b <- c(8.0,5.5,3.2,6.2)
 sum.rank.a = sum(rank(c(a,b))[1:4])
 sum.rank.b = sum(rank(c(a,b))[5:8]
 
+Correct - 19
 
 7. Based on the table in the previous question, what is the sum of the ranks in the Astrophysics group?
-
+Correct - 17
 8. Based on comparing the Wayne East and Astrophysics, what is the test statistic if we run a Wilcoxon rank sum test?
+
 
 9. A cat lover has 18 cats, from four different breeds. He is interested in whether one breed is significantly larger than the others and runs a Kruskal-Wallis test to check this.
 
